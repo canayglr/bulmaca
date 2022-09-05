@@ -1,0 +1,36 @@
+{
+   "Bilmeceler": [
+      {
+         "b": "En çok kardeşi olan meyve hangi meyvedir?",
+         "c": "üzüm"
+      },
+      {
+         "b": "Yer altında sakallı kök",
+         "c": "pırasa"
+      },
+      {
+         "b": "Kuyruğu var, at değil. Kanadı var, kuş değil.",
+         "c": "balık"
+      },
+      {
+         "b": "Dışı var, içi yok; Tekme yer, suçu yok.",
+         "c": "top"
+      },
+      {
+         "b": "Gökte durur paslanmaz, suya düşer ıslanmaz.",
+         "c": "güneş"
+      },
+      {
+         "b": "Bir küçük fıçıcık, içi dolu turşucuk.",
+         "c": "limon"
+      },
+      {
+         "b": "Yarım kaşık duvara yapışık.",
+         "c": "kulak"
+      },
+      {
+         "b": "Dal üstünde al yanak. İnanmazsan ye de bak.",
+         "c": "elma"
+      }
+   ]
+}
