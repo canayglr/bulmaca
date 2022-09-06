@@ -13,7 +13,7 @@ while True:
         break
     else:
         sayi=randint(0,7)
-        print(getdata[sayi]["b"] + " Bilmecesinin Cevabı "+ getdata[sayi]["c"])
+        # print(getdata[sayi]["b"] + " Bilmecesinin Cevabı "+ getdata[sayi]["c"])
         cevap=input(getdata[sayi]["b"] + "\n")
         if cevap==getdata[sayi]["c"]:
             a=input("Soruyu doğru yanıtladınız çıkmak için [0] devam etmek için herhangi bir tuşa basınız.\n")
